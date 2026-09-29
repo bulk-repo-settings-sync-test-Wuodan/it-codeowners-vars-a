@@ -1,0 +1,3 @@
+# CODEOWNERS template for live integration
+* @bulk-repo-settings-sync-test-Wuodan/platform
+*.md @bulk-repo-settings-sync-test-Wuodan/docs
